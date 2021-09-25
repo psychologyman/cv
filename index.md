@@ -55,8 +55,10 @@
 
 + **国际会议**
     1. Li, M., Song, R., Wang, L.(2021).The relationship between the autonomic system and individuals’ resilience: the moderated effect of developmental stage. The 20th World Congress of Psychophysiology (IOP 2021). Oral presentation
-    2. He, FJ., Li, M., Qiu, LR., Wang, L. (2021).Parasympathetic activity and mental health in chinese adolescents: the role Of parental migration. The 20th World Congress of Psychophysiology (IOP 2021). Oral presentation
+    2. He, FJ.#, Li, M.#, Qiu, LR., Wang, L. (2021).Parasympathetic activity and mental health in chinese adolescents: the role Of parental migration. The 20th World Congress of Psychophysiology (IOP 2021). Oral presentation
+
 ---
+
 + **软件著作权**
     + 基于微信小程序的心理认知与问卷测验平台V1.0
 
@@ -77,7 +79,9 @@
 + **荣誉**
     + 2018年天津市“131”创新型人才培养工程第三层次人选
     + 本科生校级优秀毕业论文指导教师（2019）
+
 ---
+
 ##### 学生指导
 + 2014级
     + 本科
