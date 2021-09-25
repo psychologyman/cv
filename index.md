@@ -14,6 +14,7 @@
     + 基础心理学
     + 生理心理学
     + 人体解剖生理学
+    + 心理与健康：认识脑，保护脑（校通选)
 
 + **研究兴趣**
     + 早期环境对个体心理发展的影响 
@@ -34,6 +35,14 @@
     8. Sun L., Min L., Li, M., Shao, S., Shao, F., & Wang, W. (2018). Transcriptomic analysis reveals oxidative phosphorylation activation in an adolescent social isolation rat model. Brain Research Bulletin,142,304-312.
     9. Sun L., Min L., Zhou H., Li, M., Shao, S., Shao, F., & Wang, W. (2017). Adolescent social isolation affects schizophrenia-like behavior and astrocyte biomarkers in the PFC of adult rats. Behavioural Brain Research, 333(30), 258-266.
     10. Wang, Q., Wang, W., Li, M., Wei, D. U., & Feng, S. (2016). The effects of trk b inhibition in the m pfc on cognitive function and bdnf expression in the hippocampus of rats. Acta Psychologica Sinica, 48(5), 509.
+    11. Wu, J., Yu, C., Tan, Y., Hou, Z., Li, M., Shao, F., & Lu, X. (2015). Effects of prenatal exposure to silver nanoparticles on spatial cognition and hippocampal neurodevelopment in rats. Environmental research, 138, 67-73.
+    12. Wang, Q., Li, M., Wei, D., Feng, S., & Wang, W. (2015). The different effects of maternal separation on spatial learning and reversal learning in rats. Behavioural Brain Research, 280(280), 16-23. 
+    13. Shao, S., Li, M., Du, W., Shao, F., & Wang, W. (2014). Galanthamine, an acetylcholine inhibitor, prevents prepulse inhibition deficits induced by adolescent social isolation or mk-801 treatment. Brain Research, 1589(1589), 105-111. 
+    14. Xue, X., Shao, S., Li, M., Feng, S., & Wang, W. (2013). Maternal separation induces alterations of serotonergic system in different aged rats. Brain Research Bulletin, 95(6), 15-20.
+    15. Xue, X., Man, L. I., Wang, W., & Feng, S. (2013). The animal model and neurobiological mechanisms of maternal separation. Advances in Psychological Science, 21(6), 990-998.
+    16. 李曼,刘欣宇,赵佳.情绪效价对早期生活应激大学生风险决策的影响.中华行为医学与脑科学杂志,2020,29(11):1014-1019.
+    17. 李曼,段文劲,李易明.社会支持在大学生行为抑制激活系统与网络成瘾间的调节作用.中华行为医学与脑科学杂志,2021,30(01):65-70.
+    18. 宋蕊,李曼*.社会支持与中学生抑郁的关系:应对方式和心理弹性的链式中介作用.中国健康心理学杂志,2020,28(09):1392-1397.
 
 + **国内会议**
 
@@ -61,6 +70,9 @@
     4. 国家自然科学基金青年项目，自下而上加工和自上而下加工在类别特异的注意捕获中的作用，2018/01-2020/12，已结项，参加
     5. 国家自然科学基金青年项目，奖励敏感性与两性亲密关系中的激情保持，2019/01-2021/12，在研，参加，23万
     6. 国家自然科学基金会面上项目，青少期社会隔离诱发大鼠拟精神分裂症认知功能障碍的BDNF表观遗传学机制研究，2015/01-2018/12，结项，参加
++ **大学生创新创业项目**
+    + 校园冷暴力对青少年情绪调节及执行功能的影响 郐琳（2018）校级，已结项
+    + 心理韧性测量的生理指标探究 宋蕊（2019）市级，已结项
 
 + **荣誉**
     + 2018年天津市“131”创新型人才培养工程第三层次人选
