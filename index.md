@@ -6,9 +6,9 @@
 
 ---
 + **教育和工作经历**
-    + 2011年9月-2016年7月 北京大学心理与认知科学学院，博士
     + 2016年7月-至今 天津师范大学心理学部，讲师
     + 2018.12-至今  中国科学院心理研究所博士后
+    + 2011年9月-2016年7月 北京大学心理与认知科学学院，博士
 
 + **讲授课程**
     + 基础心理学
@@ -47,15 +47,15 @@
 + **国内会议**
 
     1. 李曼，邱丽容，王莉.(2017).留守经历对青少年情绪调节的影响——来自唾液皮质醇的证据.中国心理学会发展心理专业委员会第十五届学术年会.深圳
-    2. 李曼，徐航，王玮文.(2018).不同形式应激及社会支持对小鼠社会交往行为的影响. 第十四届中国生理心理学学术研讨会. 重庆
+    2. 李曼，徐航，王玮文.(2018).不同形式应激及社会支持对小鼠社会交往行为的影响. 第十四届中国生理心理学学术研讨会.重庆
     3. Li, M., He, FJ., Zang, YY., Wang, L. (2021).The impact of COVID-19 stress on diurnal cortisol in adolescence: a longitudinal study from a family system perspective. 中国心理学会行为与健康心理学专业委员会第一届学术年会. 青岛
-    4. 李曼，何凤娇，邱丽容，王莉.(2021). 亲子分离对青少年应激后HPA轴和RSA的影响：来自留守儿童的证据. 第二十三届全国心理学学术会议。内蒙古
-    5. 李曼，张嘉惠，段文劲，何鑫月，贾一萌，徐战胜，杨海波.(2021). 后疫情时代大学新生的心理健康：儿童期虐待、安全感和友谊质量的作用. 第二十三届全国心理学学术会议。内蒙古
-    6. 王艺璇，何凤娇，李曼，王莉，臧寅银.(2021). 新冠肺炎疫情爆发期家长焦虑、抑郁，与儿童皮质醇水平、创伤性应激症状的潜在剖面分析.  第二十三届全国心理学学术会议。内蒙古
+    4. 李曼，何凤娇，邱丽容，王莉.(2021). 亲子分离对青少年应激后HPA轴和RSA的影响：来自留守儿童的证据. 第二十三届全国心理学学术会议.内蒙古
+    5. 李曼，张嘉惠，段文劲，何鑫月，贾一萌，徐战胜，杨海波.(2021).后疫情时代大学新生的心理健康：儿童期虐待、安全感和友谊质量的作用. 第二十三届全国心理学学术会议.内蒙古
+    6. 王艺璇，何凤娇，李曼，王莉，臧寅银.(2021). 新冠肺炎疫情爆发期家长焦虑、抑郁，与儿童皮质醇水平、创伤性应激症状的潜在剖面分析.  第二十三届全国心理学学术会议.内蒙古
 
 + **国际会议**
     1. Li, M., Song, R., Wang, L.(2021).The relationship between the autonomic system and individuals’ resilience: the moderated effect of developmental stage. The 20th World Congress of Psychophysiology (IOP 2021). Oral presentation
-    2. He, FJ#., Li, M#., Qiu, LR., Wang, L. (2021).Parasympathetic activity and mental health in chinese adolescents: the role Of parental migration. The 20th World Congress of Psychophysiology (IOP 2021). Oral presentation
+    2. He, FJ., Li, M., Qiu, LR., Wang, L. (2021).Parasympathetic activity and mental health in chinese adolescents: the role Of parental migration. The 20th World Congress of Psychophysiology (IOP 2021). Oral presentation
 ---
 + **软件著作权**
     + 基于微信小程序的心理认知与问卷测验平台V1.0
